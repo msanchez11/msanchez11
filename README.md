@@ -1,6 +1,6 @@
-<h1>Hi there, I’m Matias Sanchez 👋</h1>
+# Hi there, I’m Matias Sanchez 👋
 
-I'm a boy from Argentina🌎 who loves the WebDevelopment💻
+I'm a boy from Argentina🌎 who loves the *WebDevelopment*💻
 I’m currently learning React + Node.js 📚
 I would like to collaborate in projects related to the care of the environment 🌱
 
