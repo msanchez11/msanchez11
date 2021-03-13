@@ -12,9 +12,9 @@ I participate in the StackOverflow community 👨‍💻
 -------------------------------------------------------------------------------------------------
 ## Welcome to my workspace. Feel free to look everything you want 😁
 Here you can find some:
-- Courses exercises
-- Web pages
-- Material of my interest
+**- Courses exercises** (*[WesBos](wesbos.com/courses) Fan #1*)
+**- Web pages** (*Own proyects*)
+**- Material of my interest** (*Awesome Books & Forked repo*
 
 -------------------------------------------------------------------------------------------------
 ## Currently collaborating  [@Northic](https://www.northic.io/) ♥️
@@ -24,9 +24,9 @@ Some of these proyects are:
 - Tienda Repuestos Rafaela (Argentina) 🚕
 
 -------------------------------------------------------------------------------------------------
-Tools & Technologies used:
-- HTML5 & CSS3 / JavaScript (ES5/6/7+) / React.js & Node.js 👨🏻‍💻
+Tools & Languages:
 - Visual Studio Code / Git & GitHub / GitBash Terminal 🛠
+- HTML5 & CSS3 / JavaScript (ES5/6/7+) / React.js & Node.js 👨🏻‍💻
 
 -------------------------------------------------------------------------------------------------
 📕 Books that I love:
@@ -35,10 +35,10 @@ Tools & Technologies used:
 + 
 -------------------------------------------------------------------------------------------------
 #### Get in touch: 
-![image](https://user-images.githubusercontent.com/57968039/111031442-582d1b80-83e6-11eb-8c6d-01d9d3768ff4.png)
+![image](https://images.vexels.com/media/users/3/137382/isolated/lists/c59b2807ea44f0d70f41ca73c61d281d-logotipo-del-icono-de-linkedin.png =50x)
 [.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)
 
-![image](https://cdn.icon-icons.com/icons2/1195/PNG/128/1490889681-email_82528.png) **devmes11@gmail.com** / msanchez@northic.io
+![image](https://cdn.icon-icons.com/icons2/1195/PNG/128/1490889681-email_82528.png =50x) **devmes11@gmail.com** / msanchez@northic.io
 
 -------------------------------------------------------------------------------------------------
 > *| Matias Sanchez | © All rights are reserved 2020 - ∞*
