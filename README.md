@@ -11,10 +11,11 @@ I participate in the StackOverflow community 👨‍💻
 
 -------------------------------------------------------------------------------------------------
 ## Welcome to my workspace. Feel free to look everything you want 😁
+
 Here you can find some:
-**- Courses exercises** (*[WesBos](wesbos.com/courses) Fan #1*)
+**- Courses exercises**
 **- Web pages** (*Own proyects*)
-**- Material of my interest** (*Awesome Books & Forked repo*
+**- Material of my interest** (*Awesome Books & Forked repos*)
 
 -------------------------------------------------------------------------------------------------
 ## Currently collaborating  [@Northic](https://www.northic.io/) ♥️
@@ -22,23 +23,27 @@ Here you can find some:
 Some of these proyects are:
 - Mostto Transporte (Argentina) 🚛
 - Tienda Repuestos Rafaela (Argentina) 🚕
+- Own Proyects 🔨 
 
 -------------------------------------------------------------------------------------------------
-Tools & Languages:
+Tools, languages & courses:
 - Visual Studio Code / Git & GitHub / GitBash Terminal 🛠
 - HTML5 & CSS3 / JavaScript (ES5/6/7+) / React.js & Node.js 👨🏻‍💻
+- [WesBos Courses](wesbos.com/courses) & [TheNetNinja Series](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) 📝
 
 -------------------------------------------------------------------------------------------------
 📕 Books that I love:
 + [Eloquent JS](https://eloquentjavascript.net/)
 + [JS Good Parts](https://www.goodreads.com/book/show/2998152-javascript)
-+ 
++ [You Don't Know JavaScript Yet](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md)
++ [Node School](https://nodeschool.io/)
+
 -------------------------------------------------------------------------------------------------
 #### Get in touch: 
-![image](https://images.vexels.com/media/users/3/137382/isolated/lists/c59b2807ea44f0d70f41ca73c61d281d-logotipo-del-icono-de-linkedin.png){width: 25px}
+![image](https://imgur.com/lDAFhyN) 
 [.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)
 
-![image](https://cdn.icon-icons.com/icons2/1195/PNG/128/1490889681-email_82528.png) **devmes11@gmail.com** / msanchez@northic.io
+![image](https://imgur.com/G5cRu6b) **devmes11@gmail.com / msanchez@northic.io**
 
 -------------------------------------------------------------------------------------------------
 > *| Matias Sanchez | © All rights are reserved 2020 - ∞*
