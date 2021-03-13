@@ -35,10 +35,10 @@ Tools & Languages:
 + 
 -------------------------------------------------------------------------------------------------
 #### Get in touch: 
-![image](https://images.vexels.com/media/users/3/137382/isolated/lists/c59b2807ea44f0d70f41ca73c61d281d-logotipo-del-icono-de-linkedin.png =50x)
+![image](https://images.vexels.com/media/users/3/137382/isolated/lists/c59b2807ea44f0d70f41ca73c61d281d-logotipo-del-icono-de-linkedin.png){width: 25px}
 [.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)
 
-![image](https://cdn.icon-icons.com/icons2/1195/PNG/128/1490889681-email_82528.png =50x) **devmes11@gmail.com** / msanchez@northic.io
+![image](https://cdn.icon-icons.com/icons2/1195/PNG/128/1490889681-email_82528.png) **devmes11@gmail.com** / msanchez@northic.io
 
 -------------------------------------------------------------------------------------------------
 > *| Matias Sanchez | © All rights are reserved 2020 - ∞*
