@@ -35,8 +35,10 @@ Tools & Technologies used:
 + 
 -------------------------------------------------------------------------------------------------
 #### Get in touch: 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO45msUOXwAm2ajZTDLznzkec0csKNMpQEA&usqp=CAU)
+![image](https://user-images.githubusercontent.com/57968039/111031442-582d1b80-83e6-11eb-8c6d-01d9d3768ff4.png)
+[.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)
 
+![image](https://cdn.icon-icons.com/icons2/1195/PNG/128/1490889681-email_82528.png) **devmes11@gmail.com** / msanchez@northic.io
 
 -------------------------------------------------------------------------------------------------
 > *| Matias Sanchez | © All rights are reserved 2020 - ∞*
