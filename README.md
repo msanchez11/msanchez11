@@ -13,9 +13,9 @@ I participate in the StackOverflow community 👨‍💻
 ## Welcome to my workspace. Feel free to look everything you want 😁
 
 Here you can find some:
-**- Courses exercises**
-**- Web pages** (*Own proyects*)
-**- Material of my interest** (*Awesome Books & Forked repos*)
+- **Courses exercises**
+- **Web pages** (*Own proyects*)
+- **Material of my interest** (*Awesome Books & Forked repos*)
 
 -------------------------------------------------------------------------------------------------
 ## Currently collaborating  [@Northic](https://www.northic.io/) ♥️
@@ -40,10 +40,9 @@ Tools, languages & courses:
 
 -------------------------------------------------------------------------------------------------
 #### Get in touch: 
-![image](https://imgur.com/lDAFhyN) 
-[.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)
+**My LinkedIn: 🤓 [.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)
 
-![image](https://imgur.com/G5cRu6b) **devmes11@gmail.com / msanchez@northic.io**
+**Mail me! 📧  devmes11@gmail.com / msanchez@northic.io**
 
 -------------------------------------------------------------------------------------------------
 > *| Matias Sanchez | © All rights are reserved 2020 - ∞*
