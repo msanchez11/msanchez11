@@ -25,15 +25,18 @@ Some of these proyects are:
 
 -------------------------------------------------------------------------------------------------
 Tools & Technologies used:
-/ ![image](https://user-images.githubusercontent.com/57968039/111030238-dc2fd500-83df-11eb-9bb1-12350fc926c1.png)
-
-/
+- HTML5 & CSS3 / JavaScript (ES5/6/7+) / React.js & Node.js 👨🏻‍💻
+- Visual Studio Code / Git & GitHub / GitBash Terminal 🛠
 
 -------------------------------------------------------------------------------------------------
 📕 Books that I love:
-+ Eloquent JS 
++ [Eloquent JS](https://eloquentjavascript.net/)
++ [JS Good Parts](https://www.goodreads.com/book/show/2998152-javascript)
++ 
 -------------------------------------------------------------------------------------------------
-Get in touch: 
+#### Get in touch: 
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO45msUOXwAm2ajZTDLznzkec0csKNMpQEA&usqp=CAU)
+
 
 -------------------------------------------------------------------------------------------------
 > *| Matias Sanchez | © All rights are reserved 2020 - ∞*
