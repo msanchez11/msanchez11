@@ -40,7 +40,7 @@ Tools, languages & courses:
 
 -------------------------------------------------------------------------------------------------
 #### Get in touch: 
-**My LinkedIn: 🤓 [.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)
+**My LinkedIn: 🤓 [.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)**
 
 **Mail me! 📧  devmes11@gmail.com / msanchez@northic.io**
 
