@@ -5,11 +5,12 @@ I'm a dude from Argentina🌎 who loves the **WebDevelopment**💻
 I’m currently learning everything related with the FullStack Development.📚
 I participate in the StackOverflow community and Dev.To community.👨‍💻
 
-🌱 *I would like to collaborate in projects related to the care of the environment* 🌱
-
 2021 Goals: Dig deeper into learning advance topics and technologies related with FrontEnd⭐️ ✅
 2022 Goals: Dig deeper into learning topics and technologies related with BackEnd⭐️ ✅
 2023 Goals: Dig deeper into learning topics and technologies related with DevOps and AI⭐️ 📈
+
+🌱 *I would like to collaborate in projects related to the care of the environment* 🌱
+
 -------------------------------------------------------------------------------------------------
 ## Welcome to my workspace. Feel free to look everything you want 😁
 
@@ -20,13 +21,13 @@ Here you can find some:
 - **Material of my interest** (*Awesome Books & Forked repos*)
 
 -------------------------------------------------------------------------------------------------
-## Nowadays I'm doing some freelance projects
+## Nowadays I'm doing some freelance projects ♥️
 
 - OnPointGlobal [Instagram Reels & Stories Widget](https://velong-reels-demo.netlify.app/) 🎞
 - Own Personal projects 🔨 
 
 -------------------------------------------------------------------------------------------------
-## I collaborated with [@Northic](https://www.northic.io/) ♥️
+## I collaborated with [@Northic](https://www.northic.io/) 
 
 These projects were powered by me:
 - [Mostto Transporte](https://transportemostto.com.ar/v2/) (Argentina) 🚛
