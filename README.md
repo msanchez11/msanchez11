@@ -5,9 +5,9 @@ I'm a dude from Argentina🌎 who loves the **WebDevelopment**💻
 I’m currently learning everything related with the FullStack Development.📚
 I participate in the StackOverflow community and Dev.To community.👨‍💻
 
-2021 Goals: Dig deeper into learning advance topics and technologies related with FrontEnd⭐️ ✅
-2022 Goals: Dig deeper into learning topics and technologies related with BackEnd⭐️ ✅
-2023 Goals: Dig deeper into learning topics and technologies related with DevOps and AI⭐️ 📈
+2021 Goals: Dig deeper into learning advance topics and technologies related with FrontEnd⭐️ ✅__
+2022 Goals: Dig deeper into learning topics and technologies related with BackEnd⭐️ ✅__
+2023 Goals: Dig deeper into learning topics and technologies related with DevOps and AI⭐️ 📈__
 
 🌱 *I would like to collaborate in projects related to the care of the environment* 🌱
 
