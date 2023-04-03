@@ -1,13 +1,13 @@
 # Hi there, I’m Matias Sanchez 👋
 
-I'm a dude from Argentina🌎 who loves the **WebDevelopment**💻\
+I'm a dude from Argentina🌎 who loves the **WebDevelopment**💻
 
 I’m currently learning everything related with the FullStack Development.📚\
 I participate in the StackOverflow community and Dev.To community.👨‍💻
 
 2021 Goals: Dig deeper into learning advance topics and technologies related with FrontEnd⭐️ ✅\
 2022 Goals: Dig deeper into learning topics and technologies related with BackEnd⭐️ ✅\
-2023 Goals: Dig deeper into learning topics and technologies related with DevOps and AI⭐️ 📈\
+2023 Goals: Dig deeper into learning topics and technologies related with DevOps and AI⭐️ 📈
 
 🌱 *I would like to collaborate in projects related to the care of the environment* 🌱
 
@@ -34,7 +34,7 @@ These projects were powered by me:
 - [Random Lab](https://www.randomlab.com.ar/) WebSite (Argentina) 🎞
 
 -------------------------------------------------------------------------------------------------
-Tools, languages & courses:
+⚒ Tools, languages & courses:
 - Visual Studio Code / Git & GitHub / GitBash Terminal 🛠
 - HTML5 & CSS3 / JavaScript (ES5/6/7+) / React.js & Node.js 👨🏻‍💻
 - [WesBos Courses](wesbos.com/courses) & [TheNetNinja Series](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) 📝
