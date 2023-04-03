@@ -1,30 +1,36 @@
 # Hi there, I’m Matias Sanchez 👋
 
-I'm a boy from Argentina🌎 who loves the **WebDevelopment**💻
+I'm a dude from Argentina🌎 who loves the **WebDevelopment**💻
 
-I’m currently learning everything 📚
-I participate in the StackOverflow community 👨‍💻
+I’m currently learning everything related with the FullStack Development.📚
+I participate in the StackOverflow community and Dev.To community.👨‍💻
 
 🌱 *I would like to collaborate in projects related to the care of the environment* 🌱
 
-**2021 Goals:** Dig deeper into learning advance topics and technologies⭐️
-
+**2021 Goals:** Dig deeper into learning advance topics and technologies related with FrontEnd⭐️ ✅
+**2022 Goals:** Dig deeper into learning topics and technologies related with BackEnd⭐️ ✅
+**2023 Goals:** Dig deeper into learning topics and technologies related with DevOps and AI⭐️ 📈
 -------------------------------------------------------------------------------------------------
 ## Welcome to my workspace. Feel free to look everything you want 😁
 
 Here you can find some:
 - **Courses exercises**
-- **Web pages** (*Own proyects*)
+- **Web pages** (*Own projects*)
+- **Some game projects & practices tutorial projects.**
 - **Material of my interest** (*Awesome Books & Forked repos*)
 
 -------------------------------------------------------------------------------------------------
-## Currently collaborating with [@Northic](https://www.northic.io/) ♥️
+## Nowadays I'm doing some freelance projects
 
-Some of these proyects are:
-- Mostto Transporte (Argentina) 🚛
-- Tienda Repuestos Rafaela (Argentina) 🚕
-- RANDOM WebSite (Argentina) 🎞
-- Own Proyects 🔨 
+- OnPointGlobal [Instagram Reels & Stories Widget](https://velong-reels-demo.netlify.app/) 🎞
+- Own Personal projects 🔨 
+
+-------------------------------------------------------------------------------------------------
+## I collaborated with [@Northic](https://www.northic.io/) ♥️
+
+These projects were powered by me:
+- [Mostto Transporte](https://transportemostto.com.ar/v2/) (Argentina) 🚛
+- [Random Lab](https://www.randomlab.com.ar/) WebSite (Argentina) 🎞
 
 -------------------------------------------------------------------------------------------------
 Tools, languages & courses:
@@ -43,7 +49,7 @@ Tools, languages & courses:
 #### Get in touch: 
 **My LinkedIn: 🤓 [.com/in/matias-e-sanchez](https://www.linkedin.com/in/matias-e-sanchez/)**
 
-**Mail me! 📧  devmes11@gmail.com / msanchez@northic.io**
+**Mail me! 📧  devmes11@gmail.com**
 
 -------------------------------------------------------------------------------------------------
 > *| Matias Sanchez | © All rights are reserved 2020 - ∞*
